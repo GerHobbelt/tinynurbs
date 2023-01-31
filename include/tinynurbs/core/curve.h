@@ -9,7 +9,7 @@
 #ifndef TINYNURBS_CURVE_H
 #define TINYNURBS_CURVE_H
 
-#include "glm/glm.hpp"
+#include <glm/glm.hpp>
 #include <exception>
 #include <stdexcept>
 #include <vector>
