@@ -12,7 +12,7 @@
 #include "../util/util.h"
 #include "basis.h"
 #include "curve.h"
-#include "glm/glm.hpp"
+#include <glm/glm.hpp>
 #include "surface.h"
 #include "tinynurbs/util/array2.h"
 #include <tuple>

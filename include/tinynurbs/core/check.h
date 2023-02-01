@@ -10,7 +10,7 @@
 #define TINYNURBS_CHECK_H
 
 #include "curve.h"
-#include "glm/glm.hpp"
+#include <glm/glm.hpp>
 #include "surface.h"
 #include <algorithm>
 #include <limits>

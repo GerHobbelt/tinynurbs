@@ -12,7 +12,7 @@
 #include "../core/surface.h"
 #include "../util/array2.h"
 #include "../util/util.h"
-#include "glm/glm.hpp"
+#include <glm/glm.hpp>
 #include <algorithm>
 #include <fstream>
 #include <sstream>

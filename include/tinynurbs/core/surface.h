@@ -10,7 +10,7 @@
 #define TINYNURBS_SURFACE_H
 
 #include "../util/array2.h"
-#include "glm/glm.hpp"
+#include <glm/glm.hpp>
 #include <stdexcept>
 #include <vector>
 
